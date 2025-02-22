@@ -18,4 +18,4 @@ Early access to versions
 Access to future game scripts
 
 # Loadstring
-```loadstring(game:HttpGet("https://raw.githubusercontent.com/ATKLlama/Moon-Hub/refs/heads/main/MoonHub.lua.txt?token=GHSAT0AAAAAAC7MTNRXTUS5CUO7ECKOLTJGZ5Z7XEQ"))()```
+```loadstring(game:HttpGet("https://raw.githubusercontent.com/ATKLlama/Moon-Hub/main/MoonHub.lua.txt"))()```
